@@ -9,16 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea796f302b1a91d478efc94e21899d8d, type: 3}
-  m_Name: Star
+  m_Script: {fileID: 11500000, guid: ce8b0cb6c1d54e5428273c6662ede73f, type: 3}
+  m_Name: 19 BlackNBlue
   m_EditorClassIdentifier: 
-  state: 0
-  prefab: Star
-  soundEffect: 16
-  spawnChance: -0.2
-  losingSpawnBonus: 3.5
-  big: 0
-  vertical: 0
-  custom: 0
-  lives: 0
-  reserveSprite: {fileID: 0}
+  colors:
+  - player: {fileID: 0}
+    hatColor: {r: 0.27058825, g: 0.5921569, b: 0.9803922, a: 1}
+    overallsColor: {r: 0.17254902, g: 0.17254902, b: 0.17254902, a: 1}

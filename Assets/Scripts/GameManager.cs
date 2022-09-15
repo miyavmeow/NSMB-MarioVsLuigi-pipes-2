@@ -74,7 +74,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
 
     private ParticleSystem brickBreak;
 
-    private List<Player> nonSpectatingPlayers;
+    public HashSet<Player> nonSpectatingPlayers;
 
     // EVENT CALLBACK
     public void SendAndExecuteEvent(Enums.NetEventIds eventId, object parameters, SendOptions sendOption, RaiseEventOptions eventOptions = null) {
@@ -98,11 +98,10 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             string prefab = (string) table[0];
             int viewId = (int) table[7];
 
-            Debug.Log((sender.IsMasterClient ? "[H] " : "") + sender.NickName + " (" + sender.UserId + ") - Instantiating " + prefab);
+            //Debug.Log((sender.IsMasterClient ? "[H] " : "") + sender.NickName + " (" + sender.UserId + ") - Instantiating " + prefab);
 
             //even the host can't be trusted...
             if ((sender?.IsMasterClient ?? false) && (prefab.Contains("Static") || prefab.Contains("1-Up") || (musicEnabled && prefab.Contains("Player")))) {
-
                 //abandon ship
                 PhotonNetwork.Disconnect();
                 return;
@@ -142,6 +141,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             break;
         }
         case (byte) Enums.NetEventIds.SetTile: {
+
             int x = (int) data[0];
             int y = (int) data[1];
             string tilename = (string) data[2];
@@ -149,6 +149,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
 
             TileBase tile = Utils.GetTileFromCache(tilename);
             tilemap.SetTile(loc, tile);
+            //Debug.Log($"SetTile by {sender?.NickName} ({sender?.UserId}): {tilename}");
             break;
         }
         case (byte) Enums.NetEventIds.SetTileBatch: {
@@ -166,6 +167,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
                 tileObjects[i] = (TileBase) Resources.Load("Tilemaps/Tiles/" + tile);
             }
             tilemap.SetTilesBlock(new BoundsInt(x, y, 0, width, height, 1), tileObjects);
+            //Debug.Log($"SetTileBatch by {sender?.NickName} ({sender?.UserId}): {tileObjects[0]}");
             break;
         }
         case (byte) Enums.NetEventIds.ResetTiles: {
@@ -195,6 +197,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
                 return;
 
             Hashtable changes = (Hashtable) customData;
+            //Debug.Log($"SyncTilemap by {sender?.NickName} ({sender?.UserId}): {changes}");
             Utils.ApplyTilemapChanges(originalTiles, origin, tilemap, changes);
             break;
         }
@@ -245,6 +248,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             Vector3Int loc = new(x, y, 0);
 
             tilemap.SetTile(loc, Utils.GetTileFromCache(newTile));
+            //Debug.Log($"SetThenBumpTile by {sender?.NickName} ({sender?.UserId}): {newTile}");
             tilemap.RefreshTile(loc);
 
             GameObject bump = (GameObject) Instantiate(Resources.Load("Prefabs/Bump/BlockBump"), Utils.TilemapToWorldPosition(loc) + Vector3.one * 0.25f, Quaternion.identity);
@@ -371,7 +375,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
     public void OnPlayerLeftRoom(Player otherPlayer) {
         //TODO: player disconnect message
 
-        nonSpectatingPlayers = PhotonNetwork.CurrentRoom.Players.Values.Where(pl => !pl.IsSpectator()).ToList();
+        nonSpectatingPlayers = PhotonNetwork.CurrentRoom.Players.Values.Where(pl => !pl.IsSpectator()).ToHashSet();
         CheckIfAllLoaded();
 
         if (musicEnabled && FindObjectsOfType<PlayerController>().Length <= 0) {
@@ -430,7 +434,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             });
         }
 
-        nonSpectatingPlayers = PhotonNetwork.CurrentRoom.Players.Values.Where(pl => !pl.IsSpectator()).ToList();
+        nonSpectatingPlayers = PhotonNetwork.CurrentRoom.Players.Values.Where(pl => !pl.IsSpectator()).ToHashSet();
 
         //Respawning Tilemaps
         origin = new BoundsInt(levelMinTileX, levelMinTileY, 0, levelWidthTile, levelHeightTile, 1);
