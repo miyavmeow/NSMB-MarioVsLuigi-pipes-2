@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             invalidProjectile |= controller.state != Enums.PowerupState.IceFlower && prefab.Contains("Iceball");
 
             if (prefab.Contains("Enemy") || prefab.Contains("Powerup") || prefab.Contains("Static") || prefab.Contains("Bump") || prefab.Contains("BigStar") || prefab.Contains("Coin") || ((!nonSpectatingPlayers.Contains(sender) || musicEnabled) && prefab.Contains("Player"))) {
-                PhotonNetwork.CloseConnection(sender);
+              //  PhotonNetwork.CloseConnection(sender);
                 PhotonNetwork.DestroyPlayerObjects(sender);
             }
 
@@ -351,7 +351,7 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             List<NameIdPair> banList = bans.Cast<NameIdPair>().ToList();
             if (banList.Any(nip => nip.userId == newPlayer.UserId)) {
 
-                PhotonNetwork.CloseConnection(newPlayer);
+                //PhotonNetwork.CloseConnection(newPlayer);
                 return;
             }
         }

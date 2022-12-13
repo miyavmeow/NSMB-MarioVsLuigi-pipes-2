@@ -1,0 +1,2213 @@
+fileFormatVersion: 2
+guid: 49a923067387fa242a013c6743cd4cf1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ff8046a770ef449d11b830dba5d43
+      internalID: -2123683277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 12
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be539534d33e74080ca38f896cf35a
+      internalID: 285468362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 13
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd50a8ec5d5a674198b9a27cac1f310
+      internalID: 819742930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 14
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78a211cddd1df448de15bf3ff14ed9
+      internalID: 57328832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 15
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c2c640ec7a7d4a9f9307381cc0001
+      internalID: -318759065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 16
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5ac9b606be7c943bc30b4506fdab2a
+      internalID: 154520141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 17
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702732390a041d47b3c95c16b5f1151
+      internalID: -1113493291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 18
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c49b07c000e4da4e8e570c0854ecd4c
+      internalID: 1256810938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 19
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2376f7f70c49b45bbdba0cce40e6ed
+      internalID: -532082575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 20
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb09750c6b1464f86e930c991e6e38
+      internalID: 1454068920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 21
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f0312181793e4cba4c7c4a545fe3e
+      internalID: 1417935245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 22
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6931766ecac749f488ed2055f9b716b2
+      internalID: -863322491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 23
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b0eb5d46dfd5449517c02e3c53552
+      internalID: 11250428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 24
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4ba41240a3634ab59f808a8f4277d
+      internalID: -243295842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 25
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b965e9bf633d54d800d574b6cba322
+      internalID: 734965586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 26
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60936e9e39dc7d041a8b62b369781f08
+      internalID: 996704686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 27
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95a078aa28b52499c4270601a9af03
+      internalID: 2025380351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 28
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7049f868e18284ba3d17fee15120b9
+      internalID: -2035877164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 29
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e092bb09a674439610d7042e2e009
+      internalID: 231157157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 30
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42685381d20d4394782271c3ef3ff40e
+      internalID: -466990140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_20
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 31
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca1e75d0d3b22449d6b7447ff05265
+      internalID: -393133108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 32
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470f29d7fbc58c14ba24211f877a3d54
+      internalID: 1776096860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7cd24e958d5d5438011774866ab29a
+      internalID: -1006177843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882077bb70ea7d48831b14f8f534fd3
+      internalID: -2030018441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_24
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 33
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bddbbcde1151a41bc3a95656443dcb
+      internalID: 868070860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 33
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff731fbd09d1342a4b2ff949539384
+      internalID: 2096061076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1237e1d7f312eff44a23664b405f22d6
+      internalID: -2083166734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_27
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473f84e32af6bd47940ab7ff2aadf5b
+      internalID: 1029166308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_28
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a998dcf37d9414e825adf5f3956457
+      internalID: 351278922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_29
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce318e771ea72634f9767d6e579ae9b7
+      internalID: 74761819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_30
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff0ceeaa9653b42a4f48abad4c7c0a
+      internalID: -1334728505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_31
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 33
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6fb5ec999f3ae438c6259bf07117e0
+      internalID: 1825749287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_32
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 33
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681e787f6a0f2d4390e010ef2b95d40
+      internalID: -1305112227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71004b858fd6e48aeb735702a6e95c
+      internalID: -1217970715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_34
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 33
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816f4fb4f4771345a5755202f8bf615
+      internalID: -1741700537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_35
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 33
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29295476c5fbf428677261b7e35ff3
+      internalID: 42717315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_36
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 33
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc703b325fc4b934f8880521100e8a67
+      internalID: 1768085180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_37
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 33
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f417b1a833c1ae43b847078ce6edd51
+      internalID: 2054961574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_38
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 33
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901a52d3f3b86c419e4260b898e444a
+      internalID: 345276704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_39
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 33
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ca4003d426c543a9f9b7e74398a9e
+      internalID: -401804386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_40
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 33
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125e478af166c442a086f3e03a38a90
+      internalID: 539235504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_41
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 33
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b99d152773705949ba6a77975b944c8
+      internalID: -1466952251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_42
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b08b751d5e83d468ae4815caea6a96
+      internalID: 1294458403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_43
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6015a1972f2c43968fbe7a64f82a8
+      internalID: 1126729421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_44
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1b1c94a98e63439dc19ba2b8d36b4
+      internalID: -402324155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_45
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 33
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889991cf5c2330e43bfbbdf8c82efa0b
+      internalID: -388079426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_46
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 32
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc09d1ada7c1394a8254a9c99024686
+      internalID: 1855302593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_47
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 31
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79843fd2caf5b41a7a9a1dae0e9a64
+      internalID: 213881528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_48
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 30
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a822531ce7dca645a9fe6fdb9edc4bd
+      internalID: -2012440898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_49
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 29
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df1a7b9ef59c44db54955380b94eb9
+      internalID: -114411962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_50
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 28
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab8bfb35e0427c4baee17e44ce3132b
+      internalID: 1267309977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_51
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 27
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99d06c85298bf409b72217d28c6385
+      internalID: -1997948352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_52
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 26
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900e753351b3bcf4ebbe8b4d671c0527
+      internalID: 1878737712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_53
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 25
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead17aee0be7c984b9bd8405f744b5c8
+      internalID: 1755997646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_54
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 24
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4b402e52e59f40adc7c980e8bcd54
+      internalID: 891053615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_55
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 23
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee4ee1e483234458aef58c06adbef3
+      internalID: 1615534213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_56
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 22
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23721580d7c5a74d97faca34909a348
+      internalID: 601228012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_57
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 21
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80d74b30f8e9024fb217a8c4c45a220
+      internalID: -1027975239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 20
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc70ecf7309c664a838354f9b8aa310
+      internalID: 1755181063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_59
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 19
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8139c6be4a47d04898be397e467bb10
+      internalID: -924500668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_60
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 18
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac85767e39a774582d43f403f071a2
+      internalID: 1176528015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_61
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 17
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7304ddfc792924d9cbf92cdaeb37b0
+      internalID: -1093178629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_62
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 16
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea30991e536808849b022c12b76f5273
+      internalID: 759275229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_63
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 15
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917a93d2baa2704a8fa9d8cd31992c1
+      internalID: 1013710022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_64
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 14
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231790de6e48024a838858c24a94fe7
+      internalID: -1101715329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_65
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 13
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fac1b5cf0ca024dbfe36415f085406
+      internalID: -1605087682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_66
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 12
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bca69460fad73f4db00799ec0bc0d45
+      internalID: 1143294525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_67
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 11
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc892b43c42c84b9002c7ee017467e
+      internalID: 2086723775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_68
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 10
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664599f248b6ca64d80ff0dd56063502
+      internalID: -1594162042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_69
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 9
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac9f0f7cf7f19d459aa5985d012ad77
+      internalID: 1083848955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_70
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 8
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d486243882ec5974480d60c610f8c414
+      internalID: 886710580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d940b755cd2b42ab3154b78dfbb33
+      internalID: 1175543085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d22c07d38d09e4f975820b8fd4c081
+      internalID: -1132258263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8df8887f4d47d4a871c6c3e320c61b
+      internalID: 1137748373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e63577640cd1c540b58b0e472f597e4
+      internalID: 582600441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063b93dce91e6746a6987d758fd271e
+      internalID: 823490000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54a64a51399b94aa51969afb61c5a5
+      internalID: 777927578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114637779c611be469d98a7134306f38
+      internalID: -214320983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc92cbcde1f4049b47c6906aa78eb5
+      internalID: 93465183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a8827ccc21394e8777f95d7823a5c
+      internalID: 1966565397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e84633bb361afb42985abe8bb004b70
+      internalID: -333273338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_81
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 7
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0374325652e4687479a1386c5113b68d
+      internalID: -1918351973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_82
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 6
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5f443a0c7155468ca3b1d2bc44b36
+      internalID: 367003099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_83
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 5
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9b1fcddc36174b9556531c44ab371
+      internalID: 1861284025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_84
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3140c7831ba459a4c9c6c45b82d51cbb
+      internalID: 2114393410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_85
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e70b45ad39ed6418b8052061a0a78f
+      internalID: -1234481791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_86
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85412fbbcd73f345b56e0d75fbb868e
+      internalID: 1734325688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_87
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4a472fee4db8e4580deaca0762191a
+      internalID: -198586092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_88
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c2f404902ab0448394827359d5e91
+      internalID: -1901343159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_89
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30dc2ddac468694585c29d244f6980e
+      internalID: -1214279733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_90
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0acc8339d94ef4eb6b8dc1c3d88669
+      internalID: -333152271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_91
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caae3f5694f574419b4644a89c7be14
+      internalID: -1484053824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_92
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784c6327dd701f4aa21081f22439648
+      internalID: -596377729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_93
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d38d7fef42ef204e8737a7cba846f9d
+      internalID: 966405631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranhaplant - Kopya_94
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e71fae633a1f054c96fcd9c87cc4a49
+      internalID: 2273731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      piranhaplant - Kopya_18: 231157157
+      piranhaplant - Kopya_10: 1417935245
+      piranhaplant - Kopya_46: 1855302593
+      piranhaplant - Kopya_20: -393133108
+      piranhaplant - Kopya_4: -318759065
+      piranhaplant - Kopya_50: 1267309977
+      piranhaplant - Kopya_31: 1825749287
+      piranhaplant - Kopya_42: 1294458403
+      piranhaplant - Kopya_68: -1594162042
+      piranhaplant - Kopya_51: -1997948352
+      piranhaplant - Kopya_9: 1454068920
+      piranhaplant - Kopya_2: 819742930
+      piranhaplant - Kopya_73: 1137748373
+      piranhaplant - Kopya_3: 57328832
+      piranhaplant - Kopya_53: 1755997646
+      piranhaplant - Kopya_43: 1126729421
+      piranhaplant - Kopya_8: -532082575
+      piranhaplant - Kopya_36: 1768085180
+      piranhaplant - Kopya_19: -466990140
+      piranhaplant - Kopya_78: 93465183
+      piranhaplant - Kopya_71: 1175543085
+      piranhaplant - Kopya_87: -198586092
+      piranhaplant - Kopya_90: -333152271
+      piranhaplant - Kopya_59: -924500668
+      piranhaplant - Kopya_69: 1083848955
+      piranhaplant - Kopya_0: -2123683277
+      piranhaplant - Kopya_57: -1027975239
+      piranhaplant - Kopya_47: 213881528
+      piranhaplant - Kopya_56: 601228012
+      piranhaplant - Kopya_25: 2096061076
+      piranhaplant - Kopya_63: 1013710022
+      piranhaplant - Kopya_84: 2114393410
+      piranhaplant - Kopya_33: -1217970715
+      piranhaplant - Kopya_30: -1334728505
+      piranhaplant - Kopya_76: 777927578
+      piranhaplant - Kopya_58: 1755181063
+      piranhaplant - Kopya_91: -1484053824
+      piranhaplant - Kopya_12: 11250428
+      piranhaplant - Kopya_39: -401804386
+      piranhaplant - Kopya_29: 74761819
+      piranhaplant - Kopya_27: 1029166308
+      piranhaplant - Kopya_94: 2273731
+      piranhaplant - Kopya_21: 1776096860
+      piranhaplant - Kopya_89: -1214279733
+      piranhaplant - Kopya_7: 1256810938
+      piranhaplant - Kopya_70: 886710580
+      piranhaplant - Kopya_45: -388079426
+      piranhaplant - Kopya_11: -863322491
+      piranhaplant - Kopya_66: 1143294525
+      piranhaplant - Kopya_37: 2054961574
+      piranhaplant - Kopya_74: 582600441
+      piranhaplant - Kopya_28: 351278922
+      piranhaplant - Kopya_6: -1113493291
+      piranhaplant - Kopya_17: -2035877164
+      piranhaplant - Kopya_52: 1878737712
+      piranhaplant - Kopya_77: -214320983
+      piranhaplant - Kopya_79: 1966565397
+      piranhaplant - Kopya_5: 154520141
+      piranhaplant - Kopya_34: -1741700537
+      piranhaplant - Kopya_81: -1918351973
+      piranhaplant - Kopya_62: 759275229
+      piranhaplant - Kopya_88: -1901343159
+      piranhaplant - Kopya_61: -1093178629
+      piranhaplant - Kopya_23: -2030018441
+      piranhaplant - Kopya_41: -1466952251
+      piranhaplant - Kopya_15: 996704686
+      piranhaplant - Kopya_13: -243295842
+      piranhaplant - Kopya_60: 1176528015
+      piranhaplant - Kopya_32: -1305112227
+      piranhaplant - Kopya_38: 345276704
+      piranhaplant - Kopya_72: -1132258263
+      piranhaplant - Kopya_16: 2025380351
+      piranhaplant - Kopya_83: 1861284025
+      piranhaplant - Kopya_93: 966405631
+      piranhaplant - Kopya_44: -402324155
+      piranhaplant - Kopya_22: -1006177843
+      piranhaplant - Kopya_48: -2012440898
+      piranhaplant - Kopya_75: 823490000
+      piranhaplant - Kopya_80: -333273338
+      piranhaplant - Kopya_14: 734965586
+      piranhaplant - Kopya_49: -114411962
+      piranhaplant - Kopya_40: 539235504
+      piranhaplant - Kopya_92: -596377729
+      piranhaplant - Kopya_24: 868070860
+      piranhaplant - Kopya_55: 1615534213
+      piranhaplant - Kopya_85: -1234481791
+      piranhaplant - Kopya_1: 285468362
+      piranhaplant - Kopya_86: 1734325688
+      piranhaplant - Kopya_82: 367003099
+      piranhaplant - Kopya_35: 42717315
+      piranhaplant - Kopya_64: -1101715329
+      piranhaplant - Kopya_26: -2083166734
+      piranhaplant - Kopya_54: 891053615
+      piranhaplant - Kopya_65: -1605087682
+      piranhaplant - Kopya_67: 2086723775
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
