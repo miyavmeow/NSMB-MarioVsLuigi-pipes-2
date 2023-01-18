@@ -38,11 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Heightmap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2DLOD_14fea36738ec45e9afaddff6a22b8796_Texture_1:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 71ebafeef3c03457483266a33ab2b270, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TopTexture:
@@ -63,26 +59,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 2.69
-    - Points: 256
-    - PointsPerTile: 4
-    - TextureIndex: 0
+    - Height: 0
+    - TextureIndex: 1
     - WaveHeight: 0.3
     - WaveSpeed: 1.2
-    - WaveWidth: 1
-    - WidthTiles: 64
-    - _BUILTIN_QueueControl: -1
-    - _BUILTIN_QueueOffset: 0
-    - _Points: 160
-    - _RandomizeOffset: 1
-    - _TextureIndex: 0
+    - WidthTiles: 1
+    - _RandomizeOffset: 0
     - _WaveWidth: 2.5
     m_Colors:
-    - BackgroundColor: {r: 1, g: 0, b: 0.019174099, a: 0.8}
-    - FoamColor: {r: 1, g: 0.96761364, b: 0.36226404, a: 1}
-    - RippleColor: {r: 1, g: 0.630872, b: 0, a: 1}
-    - TopColor: {r: 1, g: 0.14068651, b: 0, a: 1}
-    - _Glow: {r: 1, g: 0.48083812, b: 0, a: 1}
+    - _Glow: {r: 0.19607842, g: 0.19607842, b: 0.19607842, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7893850056676362737
 MonoBehaviour:

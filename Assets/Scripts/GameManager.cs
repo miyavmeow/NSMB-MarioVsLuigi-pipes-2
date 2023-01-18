@@ -101,11 +101,11 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             //Debug.Log((sender.IsMasterClient ? "[H] " : "") + sender.NickName + " (" + sender.UserId + ") - Instantiating " + prefab);
 
             //even the host can't be trusted...
-            if ((sender?.IsMasterClient ?? false) && (prefab.Contains("Static") || prefab.Contains("1-Up") || (musicEnabled && prefab.Contains("Player")))) {
+           // if ((sender?.IsMasterClient ?? false) && (prefab.Contains("Static") || prefab.Contains("1-Up") || (musicEnabled && prefab.Contains("Player")))) {
                 //abandon ship
-                PhotonNetwork.Disconnect();
-                return;
-            }
+              //  PhotonNetwork.Disconnect();
+              //  return;
+          //  }
 
             //server room instantiation
             if (sender == null || sender.IsMasterClient)
@@ -115,10 +115,10 @@ public class GameManager : MonoBehaviour, IOnEventCallback, IInRoomCallbacks, IC
             bool invalidProjectile = controller.state != Enums.PowerupState.FireFlower && prefab.Contains("Fireball");
             invalidProjectile |= controller.state != Enums.PowerupState.IceFlower && prefab.Contains("Iceball");
 
-            if (prefab.Contains("Enemy") || prefab.Contains("Powerup") || prefab.Contains("Static") || prefab.Contains("Bump") || prefab.Contains("BigStar") || prefab.Contains("Coin") || ((!nonSpectatingPlayers.Contains(sender) || musicEnabled) && prefab.Contains("Player"))) {
+           // if (prefab.Contains("Enemy") || prefab.Contains("Powerup") || prefab.Contains("Static") || prefab.Contains("Bump") || prefab.Contains("BigStar") || prefab.Contains("Coin") || ((!nonSpectatingPlayers.Contains(sender) || musicEnabled) && prefab.Contains("Player"))) {
               //  PhotonNetwork.CloseConnection(sender);
-                PhotonNetwork.DestroyPlayerObjects(sender);
-            }
+                //PhotonNetwork.DestroyPlayerObjects(sender);
+           // }
 
             break;
         }

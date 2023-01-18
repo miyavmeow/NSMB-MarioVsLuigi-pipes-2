@@ -42,17 +42,17 @@ public class ColorChooser : MonoBehaviour, KeepChildInFocus.IFocusIgnore {
 
             Navigation navigation = new() { mode = Navigation.Mode.Explicit };
 
-            if (i > 0 && i % 4 != 0) {
+            if (i > 0 && i % 5 != 0) {
                 Navigation n = navigations[i - 1];
                 n.selectOnRight = b;
                 navigations[i - 1] = n;
                 navigation.selectOnLeft = buttons[i - 1];
             }
-            if (i >= 4) {
-                Navigation n = navigations[i - 4];
+            if (i >= 5) {
+                Navigation n = navigations[i - 5];
                 n.selectOnDown = b;
-                navigations[i - 4] = n;
-                navigation.selectOnUp = buttons[i - 4];
+                navigations[i - 5] = n;
+                navigation.selectOnUp = buttons[i - 5];
             }
 
             navigations.Add(navigation);
