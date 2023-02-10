@@ -45,10 +45,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,7 +104,2653 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: banzai bill_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1468
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09017e577c8e294e944dcafb2f07d65
+      internalID: -2109593592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1469
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f75b72881337847940e2291f596fad
+      internalID: 1328545751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1469
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2f57b96cedb1418631825c89df229
+      internalID: -1363820670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1469
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6235a332fedc41beca7d5269b45d5
+      internalID: 1186634945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1469
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a291be7aa3ed4897cb70ec56be76a
+      internalID: 1087336407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1411
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77d3f7dea1a6b49b26dcfa7013b415
+      internalID: 771320549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1410
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce728dabd930e74a84538a6e79c7049
+      internalID: 1325497259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1410
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9ea9df381cbd41aecf881991f7a6c
+      internalID: 1054390339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1410
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96069edf70a9f5c4a8e98121efbc3277
+      internalID: -1723796642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1410
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de8a88868dc3d4bb96433d3d92635d
+      internalID: 1851469214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1351
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c51c0684efdc949a0e1432e77dbde2
+      internalID: 948219569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1351
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3215822f4b7c4ab4778e4d1e4d583
+      internalID: 492893031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1352
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46451769f1600c4f9aa952344706cdf
+      internalID: 1612833549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1352
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a434820cf5efd4b92d8de306d4bbc6
+      internalID: -487857081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1352
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe40c99c5150dcf4db3fed8ee957188b
+      internalID: -151732039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1293
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963229874c1799d4a8df73019bd58644
+      internalID: 7171538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1292
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef0be2624d3a347b5edc1434bdfcbc
+      internalID: -716694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1292
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416647423bdf1940a89cfc59a20866b
+      internalID: 606151322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1292
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf690d7a5e368845add48f1f9e5b5c7
+      internalID: -1707270603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1292
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75fdb9d0e717404a9a4a02d7f1d6958
+      internalID: 1623456647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1233
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b5b8ea904ef6e4db83516db8f33777
+      internalID: 1939756245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1233
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b76daa71502441b4c0e5f2b32323e
+      internalID: -608292395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1233
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a1de74149cc34bae56e95cfa03dbf
+      internalID: -1326531656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1234
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45aaf77baa6ace45a0cb4b79dc2c08c
+      internalID: -563779696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1234
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f6ad808ee7e84ba6ac03f0465ad3c
+      internalID: -503734720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1174
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331b7b33869a2b48b4792bf160c4773
+      internalID: -155719293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1174
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df208893d02b5449a4acdeb6fb0524
+      internalID: -1381384747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1174
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aeae67c2778904b813aae90d07d532
+      internalID: 297413644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1174
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64385b73efe65374f9f741b3f3ec6c05
+      internalID: -224713764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1174
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c5debb622eea244b73b98b538affe2
+      internalID: -323051852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1115
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34839b45497c94a92fe4538da6ead7
+      internalID: -2109234469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1115
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c600b25dfd733644802da789d6dab00
+      internalID: -112115090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1115
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39727a7cb9c1e4982bd676e694b0f8
+      internalID: -1767515384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1116
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721365a1e2ef7e42b23c5a807f327d7
+      internalID: -31541742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1115
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964809427980ef41bf53b2b6f29b82a
+      internalID: -1852002567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1056
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757156f5175120d4881dee464c7be166
+      internalID: -2035698346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1056
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f71e37ace08f47b128f26aa7f94b3
+      internalID: 2076148158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1056
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0280c331fb0440acbc9c5e581061a
+      internalID: -326508291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1056
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd541d3866a87c4988a1a1c99e3e104
+      internalID: 1201052744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_39
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1056
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456020502a893447a0f1e307690f31e
+      internalID: -168451232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 999
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9c339deeaf7944aaaaac2112c937e
+      internalID: 106940798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 999
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c60d742ecf5014e87f8f0e281c59c4
+      internalID: -865694714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 999
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10976dc5a43e48049b87ca927f23d58e
+      internalID: 477212493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 998
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df627ed9eb54c45b77b6c7d3ad5180
+      internalID: 1265315989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 998
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee3d9f4560fb24f93e686c4011c3ee
+      internalID: 290897785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 939
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd67bac410e274ebe0a991b33b251f
+      internalID: 414311489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 939
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854161d9828bc6a4a9eb48008e3c586d
+      internalID: -1580064790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 939
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3faaff7dee8b040a836d2442ce1784
+      internalID: 366295660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 939
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298b1b9c24c87b24886c66eae1c0a0d0
+      internalID: -1382337378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 939
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d441f43478bb444928f8232cc559b0
+      internalID: -977362931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 881
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074bf3b2a865d9c4ab14068fec11f5ba
+      internalID: -2047381146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 881
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a966f9d7600904d93491f777a4a7fc
+      internalID: -683971384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 881
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc887e55c10fe43811fe638c2be483
+      internalID: 1368855407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_53
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 881
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3311df9bf7f363542b26fee40192a36e
+      internalID: 1279073442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_54
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 880
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b426bfba7ab244adad0360b288622
+      internalID: 712601461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 821
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd421ced353b824da6f720d1c554aa8
+      internalID: -913186014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 821
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40fd0ab5d28043478efb2c7e016b0ac
+      internalID: -921372978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 821
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a76ce39e2f88344a8393cb4ffb0d92
+      internalID: 874147145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_58
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 821
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d26edaa0d1b9944a9698bbba6b89fa
+      internalID: 2002123072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 821
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1386cd13bde1a7a49920f99822e8ce55
+      internalID: 1101212585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 763
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a820131a6a945f042852bad1510a444e
+      internalID: -227018293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 763
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f85f1b34aeca9c47ad013dd88f14be8
+      internalID: 1135491239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 762
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fc342c2397c74fb39621998c87be9
+      internalID: 21972027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 762
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c1e5da4bf165f4a9fd96d64bc2b993
+      internalID: -1088515810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_64
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 762
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcce717788ea04597450eebb922ace
+      internalID: 1275097009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 704
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542d5bb4cce567498a690beb0b77865
+      internalID: 1564232958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 704
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663fec37e148f2428aa8359a53fbe58
+      internalID: -525243996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 704
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726724ea1546aae459037e19d3778673
+      internalID: 1211896310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 705
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2939abec79c83f842bd669b71953163d
+      internalID: 803415550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_69
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 705
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3e251c70c2e048aeee2fbce98b06f
+      internalID: 1353906897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_70
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 647
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e64801e142684eab59975ef9d5dd0
+      internalID: -1419016283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 647
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f11e2924ce6f46812f72f8f3f0176
+      internalID: 1302300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 646
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42fc77304d7d624c87a6f866f41d849
+      internalID: -376077159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_73
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 646
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c97186bc2cd524c950f5a385ae2108
+      internalID: 587071097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_74
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 646
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71729e6759a6c1409c6a1620317dfa9
+      internalID: -461867341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 588
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b75511d42bd1d448c9cbe3bcf50217
+      internalID: 1115055720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 588
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56b4bbefa88b07469190bbfd9a6a2df
+      internalID: 1788988000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_77
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 588
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c7db0977132004284663e31a141565
+      internalID: -414790226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 588
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51184d5c24fa9f44e85b7fdfcfdb9269
+      internalID: 267837209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 589
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99f5b2e0cf51d45b74a7a763b31cd0
+      internalID: 965688961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_80
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 530
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de948773bfb57fe44b6e47c9f6647cd0
+      internalID: 1548222985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 530
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b1ce8ffa3cbb45b21edbe0143ee44
+      internalID: 1319489243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 530
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc58c90223d964cac17b7550047f28
+      internalID: -1063821383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 530
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0b630412815d14db2334647fd57f36
+      internalID: 946913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_84
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 530
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97d08d3689f58849bc9d2b5270af2cd
+      internalID: 1324092971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 471
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36953011421cb439dc49e63d300e8d
+      internalID: -295525923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_86
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 471
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3eb36a64308e34b81ba39673323fb8
+      internalID: 1242322714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_87
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 471
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08ef23af0cd4f469faa3a01f597881
+      internalID: 272077635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_88
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 471
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0887561c3d3b3b42bbc540faa3f9f38
+      internalID: -1020586933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_89
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 472
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7621fc0a239e63c4a8e0e7412ab492c4
+      internalID: 810333905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_90
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 413
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd58de7a67315f4bb4dcd066e006358
+      internalID: -1272647999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_91
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 413
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c670511ee1d2244bbd9894b3d68f27
+      internalID: 2144904605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 413
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd9179d4fbe1543ad4acc7baa7126c
+      internalID: 64707278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_93
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 413
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4957bdf7d387b7141a1f3db56c4017c1
+      internalID: -230248782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_94
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 413
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee0fcfc4d526642ac607ba0d632bff
+      internalID: -535120627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_95
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 354
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5993c03ffc53946ba8395700080520
+      internalID: -1455394688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_96
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 354
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ceb02c4143b674488e5cc57357a2af
+      internalID: -612235601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 355
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2f22c2793608547bc546f54daa4b3b
+      internalID: 1155437694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_98
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 355
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dbe5afb1820bd438d0bc64aa07db35
+      internalID: -1849074727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_99
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 355
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11965a794e94c0d49a764bfb93c1454f
+      internalID: -1275201307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 296
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91eef9dfcc5b5846b3d2c7fecd2c84b
+      internalID: -1229899168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 295
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2773e97d3027c46a10f64a3ed3bb45
+      internalID: 502223645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 295
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1f0ada4aeecf4f8d80294973fc744
+      internalID: -248103607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_103
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 295
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d90a033800edc42b39d02292d833f6
+      internalID: -700476717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_104
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 295
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6ee42097f6d74592e2d25726472d0
+      internalID: -904302162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 236
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f65e3fa3bb3934695617f7a9f4e4cd
+      internalID: -1554774724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 237
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf698c6a7fbcd4408fe53de4e938302
+      internalID: 1388545135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_107
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 237
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7eca91d0a3b0a428904fd952e9650d
+      internalID: 1980766488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_108
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 237
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1e78819d36794dbec74e02e705305
+      internalID: -306994542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_109
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 237
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df12fd15ef89645a0a734df74641de
+      internalID: -2097866610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_110
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 178
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caad3e8aaea6fc4795419599da43d0f
+      internalID: -1874841950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 178
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb1a86f41a6fe42a28af5cbf9f1de5
+      internalID: -1954537154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_112
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 178
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58aabd40655e5449b959239719f80b7
+      internalID: 1193372726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_113
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 178
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e263e13b8174d46b92af445b8d46e2
+      internalID: -1571698493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_114
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 178
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb49e5ae829760946bb450aa40e0544e
+      internalID: 2092674942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_115
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be454bb1c795f948b460550adcc73c2
+      internalID: -888260236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 120
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c888fe42d5166345873dd3d74439bd8
+      internalID: -9670194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f29e0b6e8512748bbaef11f27ec298
+      internalID: -362329985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_118
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 120
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ea7500a14d8c54f8b0b4451886fc9e
+      internalID: 1723449621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 120
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6582ce62fb5bde41bfd0025ed14eac2
+      internalID: 2070217279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_120
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 61
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75672edb80965a04f9610785c39d10d0
+      internalID: 1900119940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_121
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 61
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378dee65d7c07144be6566529b50d9b
+      internalID: 331903384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_122
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 61
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3a264eae8870418a16680a3b42deb
+      internalID: 1088600659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_123
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 61
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d85a376b490e499c1bede89d19699
+      internalID: 445777998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_124
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 61
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e310c843e4cd5540aa022261c06435e
+      internalID: -1900739361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banzai bill_125
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d964a4112d2f9a46ab8037133fb7b7d
+      internalID: -1133165982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -115,7 +2761,133 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      banzai bill_38: 1201052744
+      banzai bill_39: -168451232
+      banzai bill_9: 1851469214
+      banzai bill_116: -9670194
+      banzai bill_102: -248103607
+      banzai bill_57: 874147145
+      banzai bill_66: -525243996
+      banzai bill_42: 477212493
+      banzai bill_82: -1063821383
+      banzai bill_58: 2002123072
+      banzai bill_114: 2092674942
+      banzai bill_1: 1328545751
+      banzai bill_123: 445777998
+      banzai bill_122: 1088600659
+      banzai bill_92: 64707278
+      banzai bill_107: 1980766488
+      banzai bill_110: -1874841950
+      banzai bill_87: 272077635
+      banzai bill_109: -2097866610
+      banzai bill_62: 21972027
+      banzai bill_106: 1388545135
+      banzai bill_23: -563779696
+      banzai bill_22: -1326531656
+      banzai bill_79: 965688961
+      banzai bill_13: -487857081
+      banzai bill_117: -362329985
+      banzai bill_48: -1382337378
+      banzai bill_64: 1275097009
+      banzai bill_83: 946913
+      banzai bill_90: -1272647999
+      banzai bill_108: -306994542
+      banzai bill_14: -151732039
+      banzai bill_85: -295525923
+      banzai bill_121: 331903384
+      banzai bill_80: 1548222985
+      banzai bill_51: -683971384
+      banzai bill_67: 1211896310
+      banzai bill_0: -2109593592
+      banzai bill_105: -1554774724
+      banzai bill_52: 1368855407
+      banzai bill_31: -112115090
+      banzai bill_50: -2047381146
+      banzai bill_24: -503734720
+      banzai bill_78: 267837209
+      banzai bill_45: 414311489
+      banzai bill_75: 1115055720
+      banzai bill_2: -1363820670
+      banzai bill_15: 7171538
+      banzai bill_44: 290897785
+      banzai bill_91: 2144904605
+      banzai bill_43: 1265315989
+      banzai bill_37: -326508291
+      banzai bill_97: 1155437694
+      banzai bill_74: -461867341
+      banzai bill_25: -155719293
+      banzai bill_53: 1279073442
+      banzai bill_26: -1381384747
+      banzai bill_16: -716694098
+      banzai bill_4: 1087336407
+      banzai bill_12: 1612833549
+      banzai bill_54: 712601461
+      banzai bill_11: 492893031
+      banzai bill_103: -700476717
+      banzai bill_101: 502223645
+      banzai bill_36: 2076148158
+      banzai bill_3: 1186634945
+      banzai bill_70: -1419016283
+      banzai bill_41: -865694714
+      banzai bill_95: -1455394688
+      banzai bill_94: -535120627
+      banzai bill_119: 2070217279
+      banzai bill_120: 1900119940
+      banzai bill_29: -323051852
+      banzai bill_27: 297413644
+      banzai bill_99: -1275201307
+      banzai bill_20: 1939756245
+      banzai bill_115: -888260236
+      banzai bill_118: 1723449621
+      banzai bill_40: 106940798
+      banzai bill_56: -921372978
+      banzai bill_30: -2109234469
+      banzai bill_84: 1324092971
+      banzai bill_73: 587071097
+      banzai bill_63: -1088515810
+      banzai bill_96: -612235601
+      banzai bill_100: -1229899168
+      banzai bill_49: -977362931
+      banzai bill_77: -414790226
+      banzai bill_21: -608292395
+      banzai bill_34: -1852002567
+      banzai bill_71: 1302300130
+      banzai bill_112: 1193372726
+      banzai bill_76: 1788988000
+      banzai bill_111: -1954537154
+      banzai bill_88: -1020586933
+      banzai bill_19: 1623456647
+      banzai bill_55: -913186014
+      banzai bill_86: 1242322714
+      banzai bill_59: 1101212585
+      banzai bill_72: -376077159
+      banzai bill_104: -904302162
+      banzai bill_8: -1723796642
+      banzai bill_10: 948219569
+      banzai bill_65: 1564232958
+      banzai bill_61: 1135491239
+      banzai bill_7: 1054390339
+      banzai bill_35: -2035698346
+      banzai bill_46: -1580064790
+      banzai bill_113: -1571698493
+      banzai bill_124: -1900739361
+      banzai bill_69: 1353906897
+      banzai bill_81: 1319489243
+      banzai bill_28: -224713764
+      banzai bill_60: -227018293
+      banzai bill_89: 810333905
+      banzai bill_18: -1707270603
+      banzai bill_33: -31541742
+      banzai bill_98: -1849074727
+      banzai bill_17: 606151322
+      banzai bill_32: -1767515384
+      banzai bill_6: 1325497259
+      banzai bill_93: -230248782
+      banzai bill_5: 771320549
+      banzai bill_125: -1133165982
+      banzai bill_47: 366295660
+      banzai bill_68: 803415550
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

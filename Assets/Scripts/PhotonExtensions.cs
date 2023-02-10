@@ -9,8 +9,7 @@ public static class PhotonExtensions {
 
     private static readonly Dictionary<string, string> SPECIAL_PLAYERS = new() {
         ["cf03abdb5d2ef1b6f0d30ae40303936f9ab22f387f8a1072e2849c8292470af1"] = "ipodtouch0218",
-        ["3aa94db78bfd45afc8092eb6eae7c0268cb95b23f277a44feced25a9d4121a1f"] = "miyavmeow",
-        ["d1f4c667f608b97aad4d05083651a22d7b6e6cc7d7ea8fb494c302d62c8a807c"] = "miyavmeow",
+        ["bc9cab7baedf4657c1028b6dd8664b960c2efd7a0158cc5522ee50874eb29d60"] = "miyavmeow",
     };
 
     public static bool IsMineOrLocal(this PhotonView view) {
