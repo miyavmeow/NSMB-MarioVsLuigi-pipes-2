@@ -15,8 +15,8 @@ public class DiscordController : MonoBehaviour {
 #if UNITY_WEBGL
         return;
 #endif
-
-        discord = new Discord.Discord(962073502469459999, (ulong) CreateFlags.NoRequireDiscord);
+                                   //toasted discord id omg
+        discord = new Discord.Discord(1083507775168073818, (ulong) CreateFlags.NoRequireDiscord);
         activityManager = discord.GetActivityManager();
         activityManager.OnActivityJoinRequest += AskToJoin;
         activityManager.OnActivityJoin += TryJoinGame;
@@ -82,16 +82,16 @@ public class DiscordController : MonoBehaviour {
             GameManager gm = GameManager.Instance;
             Room room = PhotonNetwork.CurrentRoom;
 
-            activity.Details = PhotonNetwork.OfflineMode ? "Playing Offline" : "Playing Online";
+            activity.Details = PhotonNetwork.OfflineMode ? "Playing Offline" : "Playing Netplay";
             activity.Party = new() { Size = new() { CurrentSize = room.PlayerCount, MaxSize = room.MaxPlayers }, Id = PhotonNetwork.CurrentRoom.Name };
-            activity.State = room.IsVisible ? "In a Public Game" : "In a Private Game";
+            activity.State = room.IsVisible ? "In a Global Game" : "In a Closed Game";
             activity.Secrets = new() { Join = PhotonNetwork.CloudRegion + "-" + room.Name };
 
             ActivityAssets assets = new();
             if (gm.richPresenceId != "")
-                assets.LargeImage = $"level-{gm.richPresenceId}";
+                assets.LargeImage = $"toast-{gm.richPresenceId}";
             else
-                assets.LargeImage = "mainmenu";
+                assets.LargeImage = "toast";
             assets.LargeText = gm.levelName;
 
             activity.Assets = assets;
@@ -106,18 +106,18 @@ public class DiscordController : MonoBehaviour {
             //in a room
             Room room = PhotonNetwork.CurrentRoom;
 
-            activity.Details = PhotonNetwork.OfflineMode ? "Playing Offline" : "Playing Online";
+            activity.Details = PhotonNetwork.OfflineMode ? "Playing Offline" : "Playing Netplay";
             activity.Party = new() { Size = new() { CurrentSize = room.PlayerCount, MaxSize = room.MaxPlayers }, Id = PhotonNetwork.CurrentRoom.Name };
-            activity.State = room.IsVisible ? "In a Public Lobby" : "In a Private Lobby";
+            activity.State = room.IsVisible ? "In a Global Lobby" : "In a Closed Lobby";
             activity.Secrets = new() { Join = PhotonNetwork.CloudRegion + "-" + room.Name };
 
-            activity.Assets = new() { LargeImage = "mainmenu" };
+            activity.Assets = new() { LargeImage = "toast" };
 
         } else {
             //in the main menu, not in a room
 
-            activity.Details = "Browsing the Main Menu...";
-            activity.Assets = new() { LargeImage = "mainmenu" };
+            activity.Details = "Toasting You Alive Menu...";
+            activity.Assets = new() { LargeImage = "toast" };
 
         }
 
