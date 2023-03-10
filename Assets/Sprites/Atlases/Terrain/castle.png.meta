@@ -995,6 +995,31 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: chris semisolid
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe9854df5e5784e900045d594c695d
+      internalID: 125946318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1012,6 +1037,7 @@ TextureImporter:
       Castle_1: 6906767639317418099
       Castle_32: 7500674364360254742
       Castle_46: 6028529178368418858
+      chris semisolid: 125946318
       Castle_59: -7328405571476808372
       Castle_19: -3795720944560346708
       Castle_56: -4199315538776546006
