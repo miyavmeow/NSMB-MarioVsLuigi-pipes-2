@@ -82,9 +82,9 @@ public class DiscordController : MonoBehaviour {
             GameManager gm = GameManager.Instance;
             Room room = PhotonNetwork.CurrentRoom;
 
-            activity.Details = PhotonNetwork.OfflineMode ? "Playing Offline" : "Playing Netplay";
+            activity.Details = PhotonNetwork.OfflineMode ? "Fighting for a breadcrumb secretly" : "Fighting for a breadcrumb online";
             activity.Party = new() { Size = new() { CurrentSize = room.PlayerCount, MaxSize = room.MaxPlayers }, Id = PhotonNetwork.CurrentRoom.Name };
-            activity.State = room.IsVisible ? "In a Global Game" : "In a Closed Game";
+            activity.State = room.IsVisible ? "" : "";
             activity.Secrets = new() { Join = PhotonNetwork.CloudRegion + "-" + room.Name };
 
             ActivityAssets assets = new();
@@ -106,9 +106,9 @@ public class DiscordController : MonoBehaviour {
             //in a room
             Room room = PhotonNetwork.CurrentRoom;
 
-            activity.Details = PhotonNetwork.OfflineMode ? "Playing Offline" : "Playing Netplay";
+            activity.Details = PhotonNetwork.OfflineMode ? "Just waiting somewhere" : "Just waiting over there";
             activity.Party = new() { Size = new() { CurrentSize = room.PlayerCount, MaxSize = room.MaxPlayers }, Id = PhotonNetwork.CurrentRoom.Name };
-            activity.State = room.IsVisible ? "In a Global Lobby" : "In a Closed Lobby";
+            activity.State = room.IsVisible ? "" : "";
             activity.Secrets = new() { Join = PhotonNetwork.CloudRegion + "-" + room.Name };
 
             activity.Assets = new() { LargeImage = "toast" };
