@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
@@ -7,6 +8,7 @@ using UnityEngine.SceneManagement;
 using Photon.Pun;
 using ExitGames.Client.Photon;
 using NSMB.Utils;
+using Random = UnityEngine.Random;
 
 public class PlayerController : MonoBehaviourPun, IFreezableEntity, ICustomSerializeView, IOnPhotonViewPreNetDestroy {
 
