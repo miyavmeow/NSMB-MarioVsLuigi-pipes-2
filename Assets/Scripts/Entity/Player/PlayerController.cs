@@ -944,17 +944,17 @@ public class PlayerController : MonoBehaviourPun, IFreezableEntity, ICustomSeria
             Destroy(view.gameObject);
 
             return;
-        } else if (powerup.prefab == "1-Up") {
+
+        }
+        else if (powerup.prefab == "1-Up")
+        {
             lives++;
             UpdateGameState();
             PlaySound(powerup.soundEffect);
             Instantiate(Resources.Load("Prefabs/Particle/1Up"), transform.position, Quaternion.identity);
 
-            if (view.IsMine)
-                PhotonNetwork.Destroy(view);
-            Destroy(view.gameObject);
-
             return;
+
         } else if (state == Enums.PowerupState.MiniMushroom) {
             //check if we're in a mini area to avoid crushing ourselves
             if (onGround && Physics2D.Raycast(body.position, Vector2.up, 0.3f, Layers.MaskOnlyGround)) {

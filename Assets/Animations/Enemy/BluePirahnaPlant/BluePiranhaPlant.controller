@@ -142,7 +142,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: dieded
+  m_Name: bead
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -156,7 +156,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: fa7232ac71d87a642b6b636961366367, type: 2}
+  m_Motion: {fileID: 7400000, guid: c22c3e0fb772bab48b87a6c8426b4710, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -169,7 +169,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: chomped
+  m_Name: bhomp
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -183,7 +183,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 286206275cf6ec141bf4e4204da72836, type: 2}
+  m_Motion: {fileID: 7400000, guid: f4b84461ad54d9346bb6aca17c45e2f5, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -230,7 +230,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: come out
+  m_Name: btart
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -244,7 +244,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f12f9d095f4e5374d80d073afaf30e01, type: 2}
+  m_Motion: {fileID: 7400000, guid: dafbb14ea5aa55542b5b0d02d5157565, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -257,7 +257,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: end (no way)
+  m_Name: bnd
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -271,7 +271,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: d27094882560bdc429e3af216c9732dc, type: 2}
+  m_Motion: {fileID: 7400000, guid: ab17eeb87d2a9b640bb9a233436e9f41, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -284,7 +284,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: undie
+  m_Name: bespawn
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -298,7 +298,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 69f5614bc01da554cb24228f9af9af38, type: 2}
+  m_Motion: {fileID: 7400000, guid: 55feb390000a5434eb2c70a8b3310999, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

@@ -17,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/Bricks.unity
     guid: eccd61e23b609ef4f97a643aa84d51d5
-  - enabled: 0
-    path: Assets/Scenes/Levels/April Fools/April Bricks.unity
-    guid: bef8b188bda60d347b35a0d256acaf90
   - enabled: 1
     path: Assets/Scenes/Levels/Fortress.unity
     guid: 2c88ad1eb18532241acee4483fed211d
@@ -89,15 +86,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/VolcanoOld.unity
     guid: 79a3f8bd72b1d014c9813fbf103f1aad
-  - enabled: 0
-    path: Assets/Scenes/Levels/April Fools/April VolcanoOld.unity
-    guid: 17983517578f702429a36b18ddde8a94
   - enabled: 1
     path: Assets/Scenes/Levels/Volcano.unity
     guid: 48dfbffbd41b62a41a8135ce450497f5
-  - enabled: 0
-    path: Assets/Scenes/Levels/April Fools/April Volcano.unity
-    guid: d8e670c8e2647ea4fb81f260bd9386b8
   - enabled: 1
     path: Assets/Scenes/Levels/Bonus.unity
     guid: ce4cf98f31007b44ea19a2fb2ab0924a
@@ -134,20 +125,32 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/April Fools/April Grassland.unity
     guid: ece600056bacabc4f86ce9f516140d9c
+  - enabled: 0
+    path: Assets/Scenes/Levels/April Fools/April Bricks.unity
+    guid: bef8b188bda60d347b35a0d256acaf90
   - enabled: 1
     path: Assets/Scenes/Levels/April Fools/April Fortress.unity
     guid: de58219afea2ec2449726522d7c7ef23
+  - enabled: 0
+    path: Assets/Scenes/Levels/April Fools/April VolcanoOld.unity
+    guid: 17983517578f702429a36b18ddde8a94
+  - enabled: 0
+    path: Assets/Scenes/Levels/April Fools/April Volcano.unity
+    guid: d8e670c8e2647ea4fb81f260bd9386b8
   - enabled: 1
     path: Assets/Scenes/Levels/April Fools/April Airship.unity
     guid: 1557af34c74d08f49aac03e445a0908f
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Gallery.unity
+    guid: 9f0d64f1be8d21142ad9213d63691052
+  - enabled: 1
     path: Assets/Scenes/Levels/DarkSkyOld.unity
     guid: 34d7103c8d4dda547b7142a939353ca0
   - enabled: 1
     path: Assets/Scenes/Levels/Pipis2.unity
     guid: e9c7551d2d65f5a4aa74e6c59e0a831c
   - enabled: 1
-    path: Assets/Scenes/Levels/Pipis3.unity
+    path: Assets/Scenes/Levels/Penis2.unity
     guid: e93aff27f3b8c9f439ef9293bc54085d
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 49335f30d253220488d2d332ade6e901,

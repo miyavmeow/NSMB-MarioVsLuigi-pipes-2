@@ -221,7 +221,7 @@ MonoBehaviour:
   audioSources:
   - {fileID: 4891561017733555876}
   soundOrigin: {fileID: 1900118008454034840}
-  soundRange: 12
+  soundRange: 3
 --- !u!82 &4891561017733555876
 AudioSource:
   m_ObjectHideFlags: 0
